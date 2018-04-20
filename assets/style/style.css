@@ -1,0 +1,18 @@
+.villainBtn {
+    margin: 5px;
+    color: black;
+    background-color: slategray;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#adder {
+    margin: 5px;
+    margin-top: 10px;
+    background-color: slategray;
+    color: black;
+    font-weight: 700;
+}
