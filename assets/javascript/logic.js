@@ -44,7 +44,7 @@ function clickMe () {
         var villain = $(this).data("villain");
         var vLimit = "&limit=10"
         var apiKey = "&api_key=YWq0JeKUpCNYNzFC0ussbsqrj1wviR5a"
-        var queryURL = "http://api.giphy.com/v1/gifs/search?q="+ villain + 
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q="+ villain + 
             apiKey + vLimit;
         
         $.ajax({
